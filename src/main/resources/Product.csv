@@ -1,0 +1,11 @@
+ProductID,Name,Description,Price,Quantity,Category,Brand
+1,Laptop,High-performance laptop,999.99,10,Laptops,XYZ Electronics
+2,Smartphone,Latest smartphone model,599.99,20,Smartphones,ABC Technologies
+3,Headphones,Noise-cancelling headphones,199.99,15,Audio Accessories,SoundTech
+4,Tablet,10-inch tablet with HD display,299.99,8,Tablets,MobileTech
+5,Wireless Mouse,Ergonomic wireless mouse,29.99,50,Computer Accessories,Peripherals Inc
+6,External Hard Drive,1TB portable hard drive,79.99,25,Storage Devices,DataTech
+7,Printer,Wireless all-in-one printer,149.99,12,Printers,PrintMaster
+8,Gaming Console,Next-gen gaming console,399.99,18,Gaming Consoles,GameTech
+9,Smartwatch,Water-resistant smartwatch,149.99,30,Wearable Tech,SmartWear
+10,Bluetooth Speaker,Portable Bluetooth speaker,49.99,40,Audio Devices,SoundWave
